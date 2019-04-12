@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bitacora basica</string>
+    <string name="btn">GUARDAR</string>
+    <string name="txt">Introduce la información</string>
+</resources>
